@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Vikram</h1>
-<h3 align="center">Software Developer | Cloud Enthusiast | AI Explorer | Open Source Contributor</h3>
+<h3 align="center">Software Developer | AI Explorer | Open Source Contributor</h3>
 
 ---
 
@@ -17,6 +17,7 @@
 ## 🔧 Tools & Technologies
 
 ### 🧠 Programming Languages  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -25,6 +26,7 @@
 
 ### 🌐 Frontend Frameworks  
 ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat&logo=blazor)
+![MudBlazor](https://img.shields.io/badge/-MudBlazor-512BD4?style=flat&logo=blazor&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss)
 
 ### 🖥 Backend Frameworks  
