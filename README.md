@@ -49,9 +49,8 @@
 
 ## 📬 Get in Touch
 
-- 📧 Email: vikram3011@example.com  
-- 🌐 Portfolio: [vikramdev.me](https://vikramdev.me)  
-- 🐦 Twitter: [@vikram_3011](https://twitter.com/vikram_3011)  
-- 💼 LinkedIn: [Vikram](https://linkedin.com/in/vikram3011)
+- 📧 Email: vikramelangovan769@gmail.com  
+- 🌐 Portfolio: [vikramdev.me](https://vikramdev.me)   
+- 💼 LinkedIn: [Vikram]((https://www.linkedin.com/in/e-vikram-/))
 
 > “Consistency is the key to mastering anything.” 🔁
