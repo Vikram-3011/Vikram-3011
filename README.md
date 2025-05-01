@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Vikram</h1>
-<h3 align="center">Software Developer | AI Explorer | Open Source Contributor</h3>
+<h3 align="center">Software Developer </h3>
 
 ---
 
