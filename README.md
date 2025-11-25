@@ -1,5 +1,5 @@
 <h1 align="center"> Hey there, I'm Vikram!</h1>
-<h3 align="center">Fullstack & AI-Focused Software Engineer 🚀</h3>
+<h3 align="center">Fullstack & AI-Focused Software Engineer </h3>
 
 ---
 
@@ -65,6 +65,6 @@
 
 *  **Email:** vikramelangovan769@gmail.com
 *  **Portfolio:** **[vikramdev.me](https://vikramdev.me)**
-*  **LinkedIn:** **[Vikram](your-linkedin-link-here)** (I recommend adding your actual LinkedIn URL!)
-
+*  **LinkedIn:** **[Vikram](your-linkedin-link-here)**
+*  
 > “**Consistency** is the key to mastering anything—it transforms incremental steps into massive leaps.” 
