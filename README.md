@@ -72,7 +72,7 @@
 ##  Let's Connect!
 
 *  **Email:** vikramelangovan769@gmail.com
-*  **Portfolio:** **[vikramdev.me](https://vikramdev.me)**
-*  **LinkedIn:** **[Vikram](your-linkedin-link-here)**
+*  **Portfolio:** **[vikram.me](https://vikram.ritlens.me/)**
+*  **LinkedIn:** **[Vikram](https://www.linkedin.com/in/e-vikram-/)**
 
 > “**Consistency** is the key to mastering anything—it transforms incremental steps into massive leaps.” 
