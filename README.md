@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there, I'm Vikram!</h1>
+<h1 align="center"> Hey, I'm Vikram!</h1>
 <h3 align="center">Fullstack & AI-Focused Software Engineer </h3>
    
 ---
