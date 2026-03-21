@@ -65,7 +65,7 @@
 
 > **Looking for a custom software solution for your business?** I offer professional consulting and development services to build scalable, high-performance applications tailored to your specific needs.
 >
->  **Feel free to reach out** to discuss your project requirements. For examples of my work, please visit my **[company Site](https://www.ritlens.me/)**.
+>  **Feel free to reach out** to discuss your project requirements. **[company Site](https://www.ritlens.me/)**.
 
 ---
 
